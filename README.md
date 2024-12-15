@@ -8,5 +8,5 @@
 % TTOI see https://github.com/Lili-Zheng-stat/TTOI
 % TW-ALS see https://github.com/zhongchengwu/code_TWDec
 
-tensorprod too slow...
+"tensorprod" too slow...
 This code isn't very well written, but I don’t want to modify it... 0.0
